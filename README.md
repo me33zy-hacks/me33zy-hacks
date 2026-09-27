@@ -11,7 +11,6 @@
 - 🔍 I love finding vulnerabilities before the bad guys do
 - 🧠 Always learning: exploit dev, red teaming, network security
 - 🏆 Working on CTFs and bug bounty programs
-- 📫 Reach me: *add your contact links below*
 - ⚡ Fun fact: I break stuff so others don't have to worry about it
 
 ---
