@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhqcDhyNzd4eDA5MWUzZDVjYTNvOXlwc3lvY3I4NmtrN2ltcTExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378mmWnv7Gjngd9e/giphy.gif" width="850">
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Me33zy;Cyber+Security+Enthusiast;Penetration+Tester+%F0%9F%94%93;Breaking+things+to+build+them+better" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://media.giphy.com/media/2fZ2ZjtvfQaME/giphy.gif" width="400"> </p> <h3 align="center">🔐 Securing systems, one exploit at a time.</h3>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Me33zy;Cyber+Security+Enthusiast;Penetration+Tester+%F0%9F%94%93;Breaking+things+to+build+them+better" alt="Typing SVG" /> </h1> <p align="center"> <img src="[https://media.giphy.com/media/2fZ2ZjtvfQaME/giphy.gif](https://media.giphy.com/media/2fZ2ZjtvfQaME/giphy.gif)" width="400"> </p> <h3 align="center">🔐 Securing systems, one exploit at a time.</h3>
 
 
 ---
