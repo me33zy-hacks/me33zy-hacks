@@ -32,19 +32,7 @@
 </p>
 ---
 
-### 📊 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=me33zy-hacks&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me33zy-hacks&layout=compact&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=me33zy-hacks&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=me33zy-hacks&theme=radical&no-frame=true&row=1&column=6" />
-</p>
----
+
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/mehdi-idmalek-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:mehdi.idmalek01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://tryhackme.com/p/me333zy.ensakh"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a> </p>
  
